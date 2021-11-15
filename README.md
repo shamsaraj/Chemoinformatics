@@ -1,4 +1,4 @@
-# machine-learning-modules
+# machine-learning-modules, The codes are related to following publications
 
 Evaluation of the performance of various machine learning methods on the discrimination of the active compounds
 https://onlinelibrary.wiley.com/doi/10.1111/cbdd.13819
