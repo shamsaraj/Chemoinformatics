@@ -3,9 +3,6 @@
 Evaluation of the performance of various machine learning methods on the discrimination of the active compounds
 https://onlinelibrary.wiley.com/doi/10.1111/cbdd.13819
 
-Bioinformatics analysis of the genes involved in the extension of prostate cancer to adjacent lymph nodes by supervised and unsupervised machine learning methods: The role of SPAG1 and PLEKHF2
-https://www.scopus.com/record/display.uri?eid=2-s2.0-85087220973&origin=resultslist
-
 Indoor Air Quality associations with sick building syndrome: An application of decision tree technology
 https://www.sciencedirect.com/science/article/abs/pii/S0360132320308131?via%3Dihub
 
